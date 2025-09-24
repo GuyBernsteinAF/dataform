@@ -2,3 +2,6 @@ defaultProject: testproject-472913
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.26
+vars:
+    execution_date: "2024-05-02"
+    country: "Israel"
